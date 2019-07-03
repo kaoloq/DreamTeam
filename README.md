@@ -1,4 +1,4 @@
-## DrimTeam_Praktika
+## DrimTeam
 Команда:
       
       Кушкоева Анастасия
